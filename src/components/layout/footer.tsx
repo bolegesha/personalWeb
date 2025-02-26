@@ -33,7 +33,7 @@ export function Footer() {
             <h3 className="text-base font-medium mb-4">Связаться</h3>
             <div className="flex space-x-4">
               <Link
-                href="https://github.com/yourusername"
+                href="https://github.com/bolegesha"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-foreground/60 hover:text-foreground transition-colors"
@@ -42,7 +42,7 @@ export function Footer() {
                 <Github className="h-5 w-5" />
               </Link>
               <Link
-                href="https://linkedin.com/in/yourusername"
+                href="https://linkedin.com/in/aldiyar-bolegenov"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-foreground/60 hover:text-foreground transition-colors"
@@ -51,16 +51,7 @@ export function Footer() {
                 <Linkedin className="h-5 w-5" />
               </Link>
               <Link
-                href="https://twitter.com/yourusername"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-foreground/60 hover:text-foreground transition-colors"
-                aria-label="Twitter"
-              >
-                <Twitter className="h-5 w-5" />
-              </Link>
-              <Link
-                href="mailto:your.email@example.com"
+                href="mailto:aldiyar-bolegenov@mail.ru"
                 className="text-foreground/60 hover:text-foreground transition-colors"
                 aria-label="Email"
               >
