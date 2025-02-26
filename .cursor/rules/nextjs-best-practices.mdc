@@ -1,0 +1,15 @@
+---
+description: Best practices for Next.js applications and routing
+globs: 
+alwaysApply: false
+---
+---
+name: nextjs-best-practices.mdc
+description: Best practices for Next.js applications and routing
+globs: **/*.{ts,tsx}
+---
+
+- Use the App Router for improved performance and easier data fetching
+- Implement proper error boundaries to handle runtime errors gracefully
+- Utilize Next.js built-in optimizations like image optimization and code splitting
+- Leverage Next.js static generation and server-side rendering for SEO benefits

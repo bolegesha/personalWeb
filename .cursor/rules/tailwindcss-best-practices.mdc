@@ -1,0 +1,15 @@
+---
+description: Best practices for using Tailwind CSS
+globs: 
+alwaysApply: false
+---
+---
+name: tailwindcss-best-practices.mdc
+description: Best practices for using Tailwind CSS
+globs: **/*.{ts,tsx,css}
+---
+
+- Use utility-first approach for styling components
+- Create custom components with Tailwind's `@apply` directive for reusability
+- Utilize Tailwind's responsive utilities for mobile-first design
+- Keep your Tailwind configuration DRY by using theme extensions
