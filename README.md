@@ -1,4 +1,4 @@
-Link to the site: [htpps://personal-web-alpha-tan.vercel.app](htpps://personal-web-alpha-tan.vercel.app)
+Link to the site: [`Click`](https://personal-web-alpha-tan.vercel.app)
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
