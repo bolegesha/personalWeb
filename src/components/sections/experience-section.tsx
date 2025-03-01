@@ -20,7 +20,7 @@ const experiences: Experience[] = [
     title: 'Software Engineer',
     company: 'TOO ABT-Etrans',
     location: 'Алматы',
-    period: 'Октябрь 2023 - Present',
+    period: 'Октябрь 2024 - Present',
     description: [
       'Разработал ERP систему для логистической компании с нуля, включая архитектуру и интерфейс',
       'Внедрил современные практики разработки и CI/CD процессы для повышения качества кода', 
@@ -34,7 +34,7 @@ const experiences: Experience[] = [
     title: 'Software Engineer',
     company: 'FMA RK',
     location: 'Астана',
-    period: 'Декабрь 2022 - Июль 2023',
+    period: 'Декабрь 2023 - Июль 2024',
     description: [
       'Разработал архитектуру клиентской части системы OSINT, обеспечив масштабируемость и гибкость приложения',
       'Создал интерактивные панели и графики для визуализации и анализа больших объемов данных',
@@ -48,7 +48,7 @@ const experiences: Experience[] = [
     title: 'Software Engineer',
     company: '21Tech',
     location: 'Алматы',
-    period: 'Июнь 2022 - Октябрь 2022',
+    period: 'Июнь 2023 - Октябрь 2023',
     description: [
       'Участвовал в разработке корпоративного веб-приложения в команде из 5 разработчиков',
       'Реализовал несколько ключевых компонентов пользовательского интерфейса с использованием React и Redux',
@@ -62,7 +62,7 @@ const experiences: Experience[] = [
     title: 'Software Engineer Intern',
     company: '21Tech',
     location: 'Астана',
-    period: 'Март 2022 - Май 2022',
+    period: 'Март 2023 - Май 2023',
     description: [
       'Разработал и внедрил динамические компоненты для корпоративного веб-сайта',
       'Освоил основы фронтенд-разработки с использованием React и современных JavaScript-фреймворков',
