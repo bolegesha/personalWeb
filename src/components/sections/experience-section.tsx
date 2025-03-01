@@ -47,7 +47,7 @@ const experiences: Experience[] = [
     id: 'job3',
     title: 'Software Engineer',
     company: '21Tech',
-    location: 'Алматы',
+    location: 'Астана',
     period: 'Июнь 2023 - Октябрь 2023',
     description: [
       'Участвовал в разработке корпоративного веб-приложения в команде из 5 разработчиков',
